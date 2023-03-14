@@ -1,17 +1,17 @@
 {
 "mahasiswa" : [
 	{"id" : 1,
-	"nama" : "jono",
+	"nama" : "Kanezia",
 	"alamat" : "malang"},
 	{
 	"id" : 2,
-	"nama" : "jojon",
-	"alamat" : "pasuruan"
+	"nama" : "Kenzio",
+	"alamat" : "Pasuruan"
 	},
 	{
 	"id" : 3,
-	"nama" : "jujun",
-	"alamat" : "pasuruan"
+	"nama" : "Kavandra",
+	"alamat" : "Surabaya"
 	}
 ],
 "organisasi": [
